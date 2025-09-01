@@ -1,4 +1,4 @@
-# Tipos-de-Servi-o-de-Nuvem---Laboratorio
+# Tipos-de-Servico-de-Nuvem---Laboratorio
 
 📌 Resumo Detalhado – Criação de Instância Gerenciada de SQL do Azure
 🔑 O que é
